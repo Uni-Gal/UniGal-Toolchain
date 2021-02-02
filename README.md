@@ -12,18 +12,18 @@ A list of full UniGal Toolchain
 
 ### 标准
 
-+ UniGal-Script
-+ UniGal-Diagram
++ [UniGal-Script](https://github.com/Uni-Gal/UniGal-Script)
++ [UniGal-Diagram](https://github.com/Uni-Gal/UniGal-Diagram/)
 
 ### 实现
 
-+ UniGal-Complier
-+ UniGal-Render
-+ UniGal-Interpreter
++ [UniGal-Complier](https://github.com/Uni-Gal/UniGal-Complier)
++ [UniGal-Render](https://github.com/Uni-Gal/UniGal-Render)
++ [UniGal-Interpreter](https://github.com/Uni-Gal/UniGal-Interpreter)
 
 ### 提案
 
-+ UniGal-EnforcementProposal
++ [UniGal-EnforcementProposal](https://github.com/Uni-Gal/UniGal-EnforcementProposal)
 
 ## 支持了UniGal的游戏引擎
 
@@ -31,7 +31,7 @@ A list of full UniGal Toolchain
 
 ## 与Galgame有关的第三方工具
 
-+ hokaso-CharacterConnector
++ hokaso-[GalgameCharacterConnector](https://github.com/hokaso/GalgameCharacterConnector)
 
 ## 与Galgame无关的第三方工具
 
